@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+#name-heading {
+    color: rgb(168, 171, 12);
+}
+
+#skills {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.skills {
+    font-size: 25px;
+}
+
+.skills-para {
+    font-size: 20px;
+}
+
